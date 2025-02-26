@@ -52,6 +52,14 @@
 # Index mods 
        this feature write the data from mod to JSON format
 
+# File Access Issues
+	If you encounter any issues from the software about being denied access to a file, make sure you:
+ 	- extract the executable (KenshiModTool.exe) out of the zip, ideally in a folder directly under C:\
+ 	- right-click on the extracted executable and make sure to check "Unblock", then click "Apply".
+  	- (optional) if that still doesn't work, try executing the program as an administrator
+   		- right-click the extracted executable
+     		- select "Run as Administrator"
+
 # Licence
 
 Feel free to modify this project, don't forget to credit me :)
